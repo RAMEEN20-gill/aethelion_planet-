@@ -31,9 +31,6 @@ This project was built to explore:
 
 🥈 2nd Place – Weekend Build Marathon (GDG UET Collaboration)
 
-👩‍💻 Author
-Rameen Sharafat
 
 👩‍💻 Author
-
 Rameen Sharafat
